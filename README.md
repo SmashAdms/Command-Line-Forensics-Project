@@ -1,5 +1,5 @@
 # Command-Line-Forensics-Project
-For this project I utilized the command line to extract specific file data on user profiles and move that file data to a new location. 
+For this project I utilized the command line to extract specific file data in user profiles and move that file data to a new location. 
 I was given given a zip file (OrderRecords.zip) filled with Order and Inventory Records from 2012–2017. 
 My task was to create and run a shell script to complete the following:
    Create a folder called AllRecords. 
